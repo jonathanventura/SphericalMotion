@@ -1,5 +1,5 @@
 ===
-Multi-camera Motion
+Spherical Motion Solvers
 ===
 
 --
